@@ -10,4 +10,4 @@ Requires FVTT version 0.5.5 or higher.
 
 Use this manifest link in Foundry VTT:
 
-https://raw.githubusercontent.com/jackkerouac/animated-spell-effects/master/module.json
+https://raw.githubusercontent.com/jackkerouac/animated-tokens/main/module.json
