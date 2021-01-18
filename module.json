@@ -1,8 +1,35 @@
 {
   "name": "animated-tokens",
-  "title": "Animated Tokens",
-  "description": "A very small repository of animated tokens for your favourite VTT. All tokens are in .webm format. Some of the animations, character models are directly from mixamo.com. Forgive me about the size of the tokens; I'm still trying to figure out an appropriate template.",
-  "author": "Jack Kerouac",
+  "title": "Jack Kerouac's Animated Tokens",
+  "description": "A very small repository of animated tokens for your favourite VTT. All tokens are in .webm format. Some of the animations, character models are directly from mixamo.com. Forgive me about the size of the tokens; I'm still trying to figure out an appropriate template. If you like my work, consider saying thanks on Discord: jackkerouac#0624.",
+  "authors": [
+    {
+      "name": "Jack Kerouac",
+      "url": "https://github.com/jackkerouac/",
+      "discord": "jackkerouac#0624."
+    }
+  ],
+  "dependencies": [
+
+  ],
+  "conflicts": [
+    
+  ],
+  "esmodules": [
+    
+  ],
+  "scripts": [
+    
+  ],
+  "styles": [
+    
+  ],
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars2.githubusercontent.com/u/341093?s=460&v=4"
+    }
+  ],
   "version": "0.0.9",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.7.9",
